@@ -1,0 +1,20 @@
+{
+  "profile": {
+    "name": "Alex",
+    "comfortLevel": "Sprouting",
+    "focusAreas": [
+      "Small Groups",
+      "Deep Listening",
+      "Observational Wit"
+    ],
+    "timeBudget": "15 min/day",
+    "currentLevel": 12,
+    "streakDays": 7,
+    "tasksDone": 48,
+    "pointsEarned": 2400,
+    "identityTitle": "Thoughtful Navigator",
+    "identityDescription": "You lead with observation and empathy, excelling in small groups where depth is valued over volume."
+  },
+  "completedTasks": [],
+  "updatedAt": "2026-09-03T16:06:00.473Z"
+}

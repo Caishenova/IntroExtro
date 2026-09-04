@@ -1,0 +1,18 @@
+{
+  "name": "introextro",
+  "version": "1.0.0",
+  "description": "Quiet Growth - Introvert Communication & Growth App",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "server": "node --env-file-if-exists=.env server/index.ts",
+    "test": "node tests/verify-foundation.ts && node tests/verify-recommendation.ts"
+  },
+  "keywords": [
+    "quiet-growth",
+    "app",
+    "introvert-communication"
+  ],
+  "author": "",
+  "license": "ISC"
+}
